@@ -1,0 +1,8 @@
+Без всяких условностей
+while True: 
+    a = int(input('Введите число A ')) 
+    b = int(input('Введите число B ')) 
+    if a>b: 
+        print(a) 
+    else: 
+        print(b)
